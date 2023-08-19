@@ -10,7 +10,10 @@ body{
     font-weight: 400;
 }
 
+li{
+    background-color: rgb(12, 228, 244);
+}
+
 .press{
     color: white;
-    background-color: rgb(255, 183, 0);
 }
