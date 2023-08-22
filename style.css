@@ -28,3 +28,8 @@ body{
 .subs{
     font-size: 40px;
 }
+
+.tasty{
+    width: auto;
+    height: 500px;
+}
