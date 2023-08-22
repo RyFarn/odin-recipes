@@ -1,12 +1,13 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 25px;
-    text-align: center;
+    text-align: left;
 }
 
 .header{
     background-color: red;
     font-size: 100px;
+    text-align: center;
 }
 
 .nav-bar{
@@ -17,4 +18,8 @@ body{
 .press{
     color: white;
     font-weight: 200;
+}
+
+.subs{
+    font-size: 40px;
 }
