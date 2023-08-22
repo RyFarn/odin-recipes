@@ -1,3 +1,5 @@
+/* HOMEPAGE */
+
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 25px;
@@ -13,6 +15,9 @@ body{
 .nav-bar{
     background-color: rgb(34, 5, 149);
 }
+
+
+/* RECIPE PAGES */
 
 .header,
 .press{
