@@ -9,11 +9,13 @@ body{
 /* HOMEPAGE */
 
 .header{
-    background-color: red;
+    background-color: rgb(209, 42, 0);
     font-size: 100px;
-    margin: 50px auto;
+    margin: 20px auto;
     width: 700px;
     text-align: center;
+    padding: 20px;
+    border: solid rgb(255, 255, 38) 10px;
  }
 
 .nav-bar{
