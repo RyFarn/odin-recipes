@@ -13,14 +13,18 @@ body{
     font-size: 100px;
     margin: 20px auto;
     width: 700px;
-    text-align: center;
     padding: 20px;
     border: solid rgb(255, 255, 38) 10px;
  }
 
+ .header,
+ .nav-bar{
+    text-align: center;
+ }
+
 .nav-bar{
     background-color: rgb(34, 5, 149);
-    text-align: center;
+    margin: 10px auto;
 }
 
 
