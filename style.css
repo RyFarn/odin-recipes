@@ -23,8 +23,12 @@ body{
  }
 
 .nav-bar{
-    background-color: rgb(34, 5, 149);
+    background-color: rgb(42, 3, 199);
     margin: 10px auto;
+    padding: 10px;
+    width: 200px;
+    border: solid black 10px;
+    list-style: none;
 }
 
 
