@@ -9,12 +9,12 @@ body{
 /* HOMEPAGE */
 
 .header{
-    background-color: rgb(209, 42, 0);
-    font-size: 100px;
+    background-color: rgb(248, 49, 5);
+    font-size: 80px;
     margin: 20px auto;
     width: 700px;
     padding: 20px;
-    border: solid rgb(255, 255, 38) 10px;
+    border: solid black 10px;
  }
 
  .header,
@@ -29,6 +29,14 @@ body{
     width: 200px;
     border: solid black 10px;
     list-style: none;
+}
+
+.nav-bar:hover{
+    background-color: rgb(248, 49, 5);
+}
+
+.press{
+    text-decoration: none;
 }
 
 
